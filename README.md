@@ -1,4 +1,6 @@
-# Protoptying Slice
+# Prototyping Slice
+
+Terminal connectors.
 
 BREAD slice for creating new BREAD slices.
 
